@@ -1,0 +1,91 @@
+327Ground           B1    -2         UA01X   1450Y   9600X 472Y 787             
+327Ground           C2    -2         PA01X   2891Y    522X 500Y 500             
+327Ground           C3    -1         PA01X   8297Y   2183X 500Y 500             
+317Ground           J2    -2    D 350PA00X    550Y   8460X 650Y 650             
+317Ground           J2    -3    D 350PA00X    550Y   7460X 650Y 650             
+317Ground           J3    -3    D 350PA00X   6160Y   9440X 650Y 650             
+327Ground           R2    -1         PA01X   1890Y   3543X 500Y 500             
+327Ground           R3    -1         PA01X   1880Y   4781X 500Y 500             
+327Ground           U2    -19        PA01X   7448Y   2193X 500Y 250             
+327Ground           U2    -27        PA01X   7448Y   6193X 500Y 250             
+327Ground           U2    -8         PA01X   4528Y   3193X 500Y 250             
+317Ground           VIA   -     D 150PA00X   5157Y   2323X 300Y 300             
+317Ground           VIA   -     D 150PA00X   6417Y   6535X 300Y 300             
+317Ground           VIA   -     D 150PA00X   1339Y    787X 300Y 300             
+327Ground           X1    -2         UA01X   3425Y   2520X1260Y 669             
+317AVdd             L1    -2    D 350PA00X   6732Y   8307X 650Y 650             
+327AVdd             U2    -28        PA01X   7448Y   6693X 500Y 250             
+317ICEGP            J3    -5    D 350PA00X   8160Y   9440X 650Y 650             
+327ICEGP            U2    -5         PA01X   4528Y   4693X 500Y 250             
+317ICEGP            VIA   -     D 150PA00X   5433Y   4882X 300Y 300             
+317IDEGP            J3    -4    D 350PA00X   7160Y   9440X 650Y 650             
+327IDEGP            U2    -4         PA01X   4528Y   5193X 500Y 250             
+317IDEGP            VIA   -     D 150PA00X   5354Y   5669X 300Y 300             
+327MCLR             B1    -1         UA01X   3025Y   9600X 472Y 787             
+317MCLR             J3    -1    D 350PA00X   4160Y   9440X 650Y 650             
+327MCLR             R4    -1         PA01X   4606Y   7520X 500Y 500             
+327MCLR             U2    -1         PA01X   4528Y   6693X 500Y 250             
+327Plus3p3V         C2    -1         PA01X   3661Y    512X 500Y 500             
+317Plus3p3V         J2    -1    D 350PA00X    550Y   9460X 650Y 650             
+317Plus3p3V         J3    -2    D 350PA00X   5160Y   9440X 650Y 650             
+317Plus3p3V         L1    -1    D 350PA00X   5732Y   8307X 650Y 650             
+327Plus3p3V         R4    -2         PA01X   4616Y   8290X 500Y 500             
+327Plus3p3V         U2    -13        PA01X   4528Y    693X 500Y 250             
+317Plus3p3V         VIA   -     D 150PA00X   6535Y    748X 300Y 300             
+317RB2              J2    -6    D 350PA00X    550Y   4460X 650Y 650             
+327RB2              U2    -6         PA01X   4528Y   4193X 500Y 250             
+317RB2              VIA   -     D 150PA00X   5630Y   3740X 300Y 300             
+317RB3              J2    -7    D 350PA00X    550Y   3460X 650Y 650             
+327RB3              U2    -7         PA01X   4528Y   3693X 500Y 250             
+317RB3              VIA   -     D 150PA00X   5748Y   2835X 300Y 300             
+317RB4              J2    -8    D 350PA00X    550Y   2460X 650Y 650             
+327RB4              U2    -11        PA01X   4528Y   1693X 500Y 250             
+317RB4              VIA   -     D 150PA00X   6102Y   1654X 300Y 300             
+317RB5              J2    -10   D 350PA00X    550Y    460X 650Y 650             
+327RB5              U2    -14        PA01X   4528Y    193X 500Y 250             
+317RB5              VIA   -     D 150PA00X   5236Y    315X 300Y 300             
+317RB6              J1    -1    D 350PA00X   9370Y    551X 650Y 650             
+327RB6              U2    -15        PA01X   7448Y    193X 500Y 250             
+317RB7              J1    -2    D 350PA00X   9370Y   1551X 650Y 650             
+327RB7              U2    -16        PA01X   7448Y    693X 500Y 250             
+317RB12             J1    -7    D 350PA00X   9370Y   6551X 650Y 650             
+327RB12             U2    -23        PA01X   7448Y   4193X 500Y 250             
+317RB13             J1    -8    D 350PA00X   9370Y   7551X 650Y 650             
+327RB13             U2    -24        PA01X   7448Y   4693X 500Y 250             
+317RB14             J1    -9    D 350PA00X   9370Y   8551X 650Y 650             
+327RB14             U2    -25        PA01X   7448Y   5193X 500Y 250             
+317RB15             J1    -10   D 350PA00X   9370Y   9551X 650Y 650             
+327RB15             U2    -26        PA01X   7448Y   5693X 500Y 250             
+327SIG73            C3    -2         PA01X   8307Y   2953X 500Y 500             
+327SIG73            U2    -20        PA01X   7448Y   2693X 500Y 250             
+327SIG250           D2    -2         PA01X   2891Y   5601X 500Y 500             
+327SIG250           R3    -2         PA01X   1890Y   5551X 500Y 500             
+327SIG252           D3    -2         PA01X   2891Y   4577X 500Y 500             
+327SIG252           R2    -2         PA01X   1880Y   2773X 500Y 500             
+327SIG280           U2    -10        PA01X   4528Y   2193X 500Y 250             
+327SIG280           X1    -1         UA01X   3425Y   1496X1260Y 591             
+327SIG281           U2    -9         PA01X   4528Y   2693X 500Y 250             
+327SIG281           X1    -3         UA01X   3425Y   3543X1260Y 591             
+317SIG399           J2    -9    D 350PA00X    550Y   1460X 650Y 650             
+327SIG399           U2    -12        PA01X   4528Y   1193X 500Y 250             
+317SIG399           VIA   -     D 150PA00X   5236Y   1181X 300Y 300             
+327SIGRA0           D2    -1         PA01X   3661Y   5591X 500Y 500             
+317SIGRA0           J2    -4    D 350PA00X    550Y   6460X 650Y 650             
+327SIGRA0           U2    -2         PA01X   4528Y   6193X 500Y 250             
+327SIGRA1           D3    -1         PA01X   3661Y   4567X 500Y 500             
+317SIGRA1           J2    -5    D 350PA00X    550Y   5460X 650Y 650             
+327SIGRA1           U2    -3         PA01X   4528Y   5693X 500Y 250             
+317SIGRA1           VIA   -     D 150PA00X   5236Y   6535X 300Y 300             
+317TCK              J1    -3    D 350PA00X   9370Y   2551X 650Y 650             
+327TCK              U2    -17        PA01X   7448Y   1193X 500Y 250             
+317TDI              J1    -5    D 350PA00X   9370Y   4551X 650Y 650             
+327TDI              U2    -21        PA01X   7448Y   3193X 500Y 250             
+317TDI              VIA   -     D 150PA00X   6929Y   3189X 300Y 300             
+317TDO              J1    -4    D 350PA00X   9370Y   3551X 650Y 650             
+327TDO              U2    -18        PA01X   7448Y   1693X 500Y 250             
+317TDO              VIA   -     D 150PA00X   6929Y   1693X 300Y 300             
+317TMS              J1    -6    D 350PA00X   9370Y   5551X 650Y 650             
+327TMS              U2    -22        PA01X   7448Y   3693X 500Y 250             
+327N/C              B1    -3         UA01X   1450Y   6844X 472Y 787             
+327N/C              B1    -4         UA01X   3025Y   6844X 472Y 787             
+999                                                                             

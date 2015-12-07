@@ -1,0 +1,85 @@
+
+
+# "Circuit:		dspic33sqi-1.1b      Page:1"
+# "Assembly:		"
+# "Revision:		"
+# "IF IN DOUBT ASK THE DESIGNER: "
+# "Report Generation Date:Monday, 7 December 2015; 9:45 PM"
+Part PBAE4 { Name B1 }
+Part 0805 { Name C2 }
+Part 0805 { Name C3 }
+Part 0805 { Name D2 }
+Part 0805 { Name D3 }
+Part HEADER10 { Name J1 }
+Part HEADER10 { Name J2 }
+Part HEADER5 { Name J3 }
+Part HEADER2 { Name L1 }
+Part 0805 { Name R2 }
+Part 0805 { Name R3 }
+Part 0805 { Name R4 }
+Part SOIC28 { Name U2 }
+Part X2045 { Name X1 }
+
+Signal "Ground"
+  { B1-2 C2-2 C3-1 J2-2 J2-3 J3-3 R2-1 R3-1 U2-8 U2-19 U2-27
+    U2-27 X1-2 }
+
+
+
+
+
+Signal "AVdd"
+   { L1-2 U2-28 }
+Signal "ICEGP"
+   { J3-5 U2-5 }
+Signal "IDEGP"
+   { J3-4 U2-4 }
+Signal "MCLR"
+   { B1-1 J3-1 R4-1 U2-1 }
+Signal "Plus3p3V"
+   { C2-1 J2-1 J3-2 L1-1 R4-2 U2-13 }
+Signal "RB2"
+   { J2-6 U2-6 }
+Signal "RB3"
+   { J2-7 U2-7 }
+Signal "RB4"
+   { J2-8 U2-11 }
+Signal "RB5"
+   { J2-10 U2-14 }
+Signal "RB6"
+   { J1-1 U2-15 }
+Signal "RB7"
+   { J1-2 U2-16 }
+Signal "RB12"
+   { J1-7 U2-23 }
+Signal "RB13"
+   { J1-8 U2-24 }
+Signal "RB14"
+   { J1-9 U2-25 }
+Signal "RB15"
+   { J1-10 U2-26 }
+Signal "SIG73"
+   { C3-2 U2-20 }
+Signal "SIG250"
+   { D2-2 R3-2 }
+Signal "SIG252"
+   { D3-2 R2-2 }
+Signal "SIG280"
+   { U2-10 X1-1 }
+Signal "SIG281"
+   { U2-9 X1-3 }
+Signal "SIG399"
+   { J2-9 U2-12 }
+Signal "SIGRA0"
+   { D2-1 J2-4 U2-2 }
+Signal "SIGRA1"
+   { D3-1 J2-5 U2-3 }
+Signal "TCK"
+   { J1-3 U2-17 }
+Signal "TDI"
+   { J1-5 U2-21 }
+Signal "TDO"
+   { J1-4 U2-18 }
+Signal "TMS"
+   { J1-6 U2-22 }
+

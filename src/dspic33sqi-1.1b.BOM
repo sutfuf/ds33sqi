@@ -1,0 +1,19 @@
+
+Circuit:	dspic33sqi-1.1b
+Date:		Monday, 7 December 2015 - 9:46 PM
+
+Device Type        Num. Used   Value                Footprint References
+
+2.54mm Pin Header     1        10P                  HEADER10  J1
+2.54mm Pin Header     1        10p                  HEADER10  J2
+2.54mm Pin Header     1        5P                   HEADER5   J3
+Blue LED              1        LTST-C171TBKT        0805      D2
+Button                1        RESET                PBAE4     B1
+Cap                   1        0.1u                 0805      C2
+Cap                   1        10u                  0805      C3
+Crystal OSC           1        CSTCC8M00G53-B0      X2045     X1
+DSPIC33               1        DSPIC33FJ32MC202     SOIC28    U2
+Ferrite Bead          1                             HEADER2   L1
+Green LED             1        LTST-C171GKT         0805      D3
+Resistor              1        10K                  0805      R4
+Resistor              2        680                  0805      R2 R3
