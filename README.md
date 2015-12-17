@@ -1,4 +1,13 @@
 # ds33sqi
+
+## UPDATE: Do not make this board. 
+The SOIC28 is too small. Missed by 1mm. (Not sure why this happened yet)
+I missed it on the checklist.  I'll post updated files soon.
+
+* It's 9mm wide, it should be 10. :-( 
+* It wont fit. :-( 
+
+
 Microchip DSPIC33 series in a square inch
 
 This is my entry to the hackaday square inch project comp.
